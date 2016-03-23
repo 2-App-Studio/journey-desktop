@@ -1,0 +1,12 @@
+{
+    "name": "Journey",
+    "version": "4.1.0.1",
+    "packages": {
+        "mac": {
+           "url": ""
+        },
+        "win": {
+        	"url": ""
+        }
+    }
+}
