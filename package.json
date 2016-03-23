@@ -1,12 +1,9 @@
 {
     "name": "Journey",
-    "version": "4.1.0.1",
+    "version": "4.1.1.0",
     "packages": {
         "mac": {
-           "url": ""
-        },
-        "win": {
-        	"url": ""
+           "url": "https://github.com/2-App-Studio/journey-desktop/releases/download/v4.1.1.0/mac.zip"
         }
     }
 }
