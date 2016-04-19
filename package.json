@@ -3,7 +3,8 @@
     "version": "4.2.0.0",
     "packages": {
         "mac": {
-           "url": "https://github.com/2-App-Studio/journey-desktop/releases/download/v4.2.0.0/Journey-Mac.zip"
+           "url": "https://github.com/2-App-Studio/journey-desktop/releases/download/v4.2.0.0/Journey-Mac.zip",
+           "installer-url": "https://github.com/2-App-Studio/journey-desktop/releases/download/v4.2.0.0/Journey.dmg"
         }
     }
 }
