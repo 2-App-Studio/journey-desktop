@@ -2,6 +2,10 @@
     "name": "Journey",
     "version": "4.2.2.4",
     "packages": {
+    	"win": {
+           "url": "https://github.com/2-App-Studio/journey-desktop/releases/download/v4.2.2.4/Journey-Win.zip",
+           "installer-url": "https://github.com/2-App-Studio/journey-desktop/releases/download/v4.2.2.4/Journey.exe"
+        },
         "mac": {
            "url": "https://github.com/2-App-Studio/journey-desktop/releases/download/v4.2.2.4/Journey-Mac.zip",
            "installer-url": "https://github.com/2-App-Studio/journey-desktop/releases/download/v4.2.2.4/Journey.dmg"
