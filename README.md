@@ -1,3 +1,8 @@
+## V4.3.0.2
+* New day background
+* Notification on Mac
+* Minor bug fixes
+
 ## V4.2.2.5
 * Fixed Day One and Day One classic import
 * Minor bug fixes

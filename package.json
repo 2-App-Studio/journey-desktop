@@ -1,14 +1,14 @@
 {
     "name": "Journey",
-    "version": "4.2.2.6",
+    "version": "4.3.0.2",
     "packages": {
     	"win": {
-           "url": "https://github.com/2-App-Studio/journey-desktop/releases/download/v4.2.2.6/Journey-Win.zip",
-           "installer-url": "https://github.com/2-App-Studio/journey-desktop/releases/download/v4.2.2.6/Journey.exe"
+           "url": "https://github.com/2-App-Studio/journey-desktop/releases/download/v4.3.0.2/Journey-Win.zip",
+           "installer-url": "https://github.com/2-App-Studio/journey-desktop/releases/download/v4.3.0.2/Journey.exe"
         },
         "mac": {
-           "url": "https://github.com/2-App-Studio/journey-desktop/releases/download/v4.2.2.6/Journey-Mac.zip",
-           "installer-url": "https://github.com/2-App-Studio/journey-desktop/releases/download/v4.2.2.6/Journey.dmg"
+           "url": "https://github.com/2-App-Studio/journey-desktop/releases/download/v4.3.0.2/Journey-Mac.zip",
+           "installer-url": "https://github.com/2-App-Studio/journey-desktop/releases/download/v4.3.0.2/Journey.dmg"
         }
     }
 }
