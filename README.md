@@ -1,3 +1,8 @@
+## V4.4.0.0
+* New look & icon
+* Added Cards UI
+* Fixed Docx Export bugs
+
 ## V4.3.0.2
 * New day background
 * Notification on Mac
