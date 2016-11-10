@@ -1,3 +1,6 @@
+## V4.4.0.2
+* Fixed DOCX and ZIP export
+
 ## V4.4.0.0
 * New look & icon
 * Added Cards UI
