@@ -1,3 +1,11 @@
+# What's new
+
+## V4.5.0.1
+* Added autocomplete tag
+* Added internal video player
+* Fixed duplicated dock icon on launch (Mac)
+* Many bug fixes
+
 ## V4.4.0.2
 * Fixed DOCX and ZIP export
 
