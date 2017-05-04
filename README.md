@@ -1,5 +1,9 @@
 # What's new
 
+## V4.5.2.0
+* Fixed crash when tag is a number
+* Changed Atlas frame to WebView
+
 ## V4.5.0.1
 * Added autocomplete tag
 * Added internal video player
