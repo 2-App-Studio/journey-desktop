@@ -1,5 +1,9 @@
 # What's new
 
+## V4.5.3.0
+* Fixed auto location
+* Upgrade to Journey v2: [https://2appstudio.com/journey](https://2appstudio.com/journey)
+
 ## V4.5.2.0
 * Fixed crash when tag is a number
 * Changed Atlas frame to WebView
